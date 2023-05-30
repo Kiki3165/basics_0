@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# Display active network connections
 netstat -a -p
